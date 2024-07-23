@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|c:\\users\\orange\\desktop\\sql\\sql\\task23-07\\task23-07\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|solutionrelative:task23-07\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|c:\\users\\orange\\desktop\\sql\\sql\\task23-07\\task23-07\\views\\home\\contactview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|solutionrelative:task23-07\\views\\home\\contactview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|c:\\users\\orange\\desktop\\sql\\sql\\task23-07\\task23-07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|solutionrelative:task23-07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|c:\\users\\orange\\desktop\\sql\\sql\\task23-07\\task23-07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|solutionrelative:task23-07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|c:\\users\\orange\\desktop\\sql\\sql\\task23-07\\task23-07\\views\\shared\\_layouttask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10057F47-9F47-407F-9091-E77AD2F279E9}|task23-07\\task23-07.csproj|solutionrelative:task23-07\\views\\shared\\_layouttask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Views\\Home\\ContactView.cshtml",
+              "RelativeDocumentMoniker": "task23-07\\Views\\Home\\ContactView.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Views\\Home\\ContactView.cshtml",
+              "RelativeToolTip": "task23-07\\Views\\Home\\ContactView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T16:17:53.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "task23-07\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "task23-07\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:53:46.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "task23-07\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "task23-07\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA9wCgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:50:43.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "task23-07\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "task23-07\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:49:27.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutTask.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Views\\Shared\\_LayoutTask.cshtml",
+              "RelativeDocumentMoniker": "task23-07\\Views\\Shared\\_LayoutTask.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\SQL\\SQL\\task23-07\\task23-07\\Views\\Shared\\_LayoutTask.cshtml",
+              "RelativeToolTip": "task23-07\\Views\\Shared\\_LayoutTask.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:46:45.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

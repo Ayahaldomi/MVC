@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<main aria-labelledby="title">
+    <h2 id="title">@ViewBag.Title.</h2>
+    <h3>@ViewBag.Message</h3>
+
+
+<div class="container mt-5">
+    <h2>Sample Form</h2>
+    @using (Html.BeginForm())
+    {
+        <!-- Text Input -->
+        <div class="mb-3">
+            <label for="textInput" class="form-label">Text Input</label>
+            <input type="text" class="form-control" name="textInput" placeholder="Enter text here">
+        </div>
+
+        <!-- Number Input -->
+        <div class="mb-3">
+            <label for="numberInput" class="form-label">Number Input</label>
+            <input type="number" class="form-control" name="numberInput" placeholder="Enter number here">
+        </div>
+
+        <!-- Radio Buttons -->
+        <div class="mb-3">
+            <label class="form-label">what is harder? </label>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="radioOptions" id="radioOption1" value="SQL">
+                <label class="form-check-label" for="radioOption1">
+                    SQL
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="radioOptions" id="radioOption2" value="MVC">
+                <label class="form-check-label" for="radioOption2">
+                    MVC
+                </label>
+            </div>
+        </div>
+
+        <!-- Dropdown Multiple -->
+        <div class="mb-3">
+            <label for="multiSelectInput" class="form-label">Select The languages You Learned</label>
+            <span>you can select multiple languages</span>
+            <select multiple class="form-select" name="multiSelectInput">
+                <option value="HTML">HTML</option>
+                <option value="CSS">CSS</option>
+                <option value="JavaScript">JavaScript</option>
+                <option value="C#">C#</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    }
+    </div>
+</main>
