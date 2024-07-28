@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task28-07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAFD9EA-266B-4347-93BC-A4E9CEB6460D}|task28-07\\task28-07.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task28-07\\task28-07\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAFD9EA-266B-4347-93BC-A4E9CEB6460D}|task28-07\\task28-07.csproj|solutionrelative:task28-07\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAFD9EA-266B-4347-93BC-A4E9CEB6460D}|task28-07\\task28-07.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task28-07\\task28-07\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAFD9EA-266B-4347-93BC-A4E9CEB6460D}|task28-07\\task28-07.csproj|solutionrelative:task28-07\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAFD9EA-266B-4347-93BC-A4E9CEB6460D}|task28-07\\task28-07.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task28-07\\task28-07\\models\\usermodel1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CCAFD9EA-266B-4347-93BC-A4E9CEB6460D}|task28-07\\task28-07.csproj|solutionrelative:task28-07\\models\\usermodel1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task28-07\\task28-07\\Views\\USERs\\Index.cshtml",
+              "RelativeDocumentMoniker": "task28-07\\Views\\USERs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task28-07\\task28-07\\Views\\USERs\\Index.cshtml",
+              "RelativeToolTip": "task28-07\\Views\\USERs\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T14:33:37.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "USERsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task28-07\\task28-07\\Controllers\\USERsController.cs",
+              "RelativeDocumentMoniker": "task28-07\\Controllers\\USERsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task28-07\\task28-07\\Controllers\\USERsController.cs",
+              "RelativeToolTip": "task28-07\\Controllers\\USERsController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:31:12.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "usermodel1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task28-07\\task28-07\\Models\\usermodel1.edmx",
+              "RelativeDocumentMoniker": "task28-07\\Models\\usermodel1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\task28-07\\task28-07\\Models\\usermodel1.edmx [Diagram1]",
+              "RelativeToolTip": "task28-07\\Models\\usermodel1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-28T14:29:34.108Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
