@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+@{ 
+    List<string> myListName = Session["myListName"] as List<string>;
+    List<string> myListPrice = Session["myListPrice"] as List<string>;
+    List<string> myListImage = Session["myListImage"] as List<string>;
+
+    var counter = 0;
+}
+<main aria-labelledby="title">
+    @foreach (var item in myListName)
+    {
+        
+        <div class="card" style="width: 18rem;">
+            <img src="@myListImage[counter]" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">@item</h5>
+                <p class="card-text">@myListPrice[counter]</p>
+                <a href="#" class="btn btn-primary">Buy</a>
+                <a href="#" class="btn btn-primary">Add to cart</a>
+            </div>
+        </div>
+        counter++;
+    }
+
+</main>

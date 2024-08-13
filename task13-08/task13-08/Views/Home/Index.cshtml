@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    @using (Html.BeginForm())
+    {
+        <label>name</label>
+        <input type="text" name="name" />
+        <br />
+        <label>Price</label>
+        <input type="text" name="price" />
+        <br />
+        <label>Image</label>
+        <input type="text" name="image" />
+        <input type="submit" value="submit" />
+    }
+
+    @Html.ActionLink("go to cards", "About", "Home", new { @class = "nav-link" })
+</main>
