@@ -11,11 +11,14 @@ namespace task29_07.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class users_table
     {
         public int id { get; set; }
         public string name { get; set; }
+        [Required(ErrorMessage = "Email is required")]
+        [EmailAddress(ErrorMessage = "Invalid Email Address")]
         public string email { get; set; }
         public string password { get; set; }
         public string img { get; set; }
