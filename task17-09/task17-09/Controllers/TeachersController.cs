@@ -6,9 +6,9 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using task17_09.Models;
+using TASK17_09.Models;
 
-namespace task17_09.Controllers
+namespace TASK17_09.Controllers
 {
     public class TeachersController : Controller
     {
@@ -46,7 +46,7 @@ namespace task17_09.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,TeacherName,Age")] Teacher teacher)
+        public ActionResult Create([Bind(Include = "Id,TeacherName,Age,Ages")] Teacher teacher)
         {
             if (ModelState.IsValid)
             {
@@ -78,7 +78,7 @@ namespace task17_09.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,TeacherName,Age")] Teacher teacher)
+        public ActionResult Edit([Bind(Include = "Id,TeacherName,Age,Ages")] Teacher teacher)
         {
             if (ModelState.IsValid)
             {

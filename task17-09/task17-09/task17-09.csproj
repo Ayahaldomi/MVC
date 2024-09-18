@@ -9,17 +9,17 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{2A84056D-9B45-44BE-AB02-CED767DB075A}</ProjectGuid>
+    <ProjectGuid>{0627EA31-72BB-412C-98C6-9A8DD722E8E6}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>task17_09</RootNamespace>
-    <AssemblyName>task17-09</AssemblyName>
+    <RootNamespace>TASK17_09</RootNamespace>
+    <AssemblyName>TASK17-09</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>44333</IISExpressSSLPort>
+    <IISExpressSSLPort>44398</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -127,19 +127,32 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CoursesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\StudentDetailsController.cs" />
+    <Compile Include="Controllers\StudentsController.cs" />
     <Compile Include="Controllers\TeachersController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202409171902311_InitialCreate.cs" />
-    <Compile Include="Migrations\202409171902311_InitialCreate.Designer.cs">
-      <DependentUpon>202409171902311_InitialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\202409171914147_InitialCreate.cs" />
+    <Compile Include="Migrations\202409171914147_InitialCreate.Designer.cs">
+      <DependentUpon>202409171914147_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409171918374_InitialCreate1.cs" />
+    <Compile Include="Migrations\202409171918374_InitialCreate1.Designer.cs">
+      <DependentUpon>202409171918374_InitialCreate1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409180822205_InitialCreate2.cs" />
+    <Compile Include="Migrations\202409180822205_InitialCreate2.Designer.cs">
+      <DependentUpon>202409180822205_InitialCreate2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
     <Compile Include="Models\Assignment.cs" />
+    <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Student.cs" />
+    <Compile Include="Models\StudentDetails.cs" />
     <Compile Include="Models\Teacher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -199,6 +212,21 @@
     <Content Include="Views\Teachers\Details.cshtml" />
     <Content Include="Views\Teachers\Edit.cshtml" />
     <Content Include="Views\Teachers\Index.cshtml" />
+    <Content Include="Views\Courses\Create.cshtml" />
+    <Content Include="Views\Courses\Delete.cshtml" />
+    <Content Include="Views\Courses\Details.cshtml" />
+    <Content Include="Views\Courses\Edit.cshtml" />
+    <Content Include="Views\Courses\Index.cshtml" />
+    <Content Include="Views\Students\Create.cshtml" />
+    <Content Include="Views\Students\Delete.cshtml" />
+    <Content Include="Views\Students\Details.cshtml" />
+    <Content Include="Views\Students\Edit.cshtml" />
+    <Content Include="Views\Students\Index.cshtml" />
+    <Content Include="Views\StudentDetails\Create.cshtml" />
+    <Content Include="Views\StudentDetails\Delete.cshtml" />
+    <Content Include="Views\StudentDetails\Details.cshtml" />
+    <Content Include="Views\StudentDetails\Edit.cshtml" />
+    <Content Include="Views\StudentDetails\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -231,8 +259,14 @@
     <Content Include="Scripts\jquery-3.7.0.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202409171902311_InitialCreate.resx">
-      <DependentUpon>202409171902311_InitialCreate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202409171914147_InitialCreate.resx">
+      <DependentUpon>202409171914147_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409171918374_InitialCreate1.resx">
+      <DependentUpon>202409171918374_InitialCreate1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409180822205_InitialCreate2.resx">
+      <DependentUpon>202409180822205_InitialCreate2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
@@ -251,9 +285,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>51682</DevelopmentServerPort>
+          <DevelopmentServerPort>52374</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44333/</IISUrl>
+          <IISUrl>https://localhost:44398/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

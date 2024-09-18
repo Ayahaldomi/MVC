@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace task17_09.Models
+namespace TASK17_09.Models
 {
     public class Assignment
     {
@@ -14,6 +14,6 @@ namespace task17_09.Models
 
         public string AsignmentName { get; set; }
 
-        public DateTime? date { get; set; } = DateTime.Now;
+        public DateTime? date { get; set; }
     }
 }
