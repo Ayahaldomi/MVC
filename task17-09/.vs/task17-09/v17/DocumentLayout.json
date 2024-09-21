@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\views\\studentdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\views\\studentdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\migrations\\202409191029334_initialcreate5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\migrations\\202409191029334_initialcreate5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\migrations\\202409191028431_initialcreate4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\migrations\\202409191028431_initialcreate4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\migrations\\202409191026515_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\migrations\\202409191026515_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|c:\\users\\orange\\desktop\\mvc\\mvc\\task17-09\\task17-09\\views\\studentdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\views\\studentdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -43,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\migrations\\202409171914147_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\task17-09\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0627EA31-72BB-412C-98C6-9A8DD722E8E6}|TASK17-09\\TASK17-09.csproj|solutionrelative:task17-09\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -58,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +98,97 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202409191029334_InitialCreate5.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\202409191029334_InitialCreate5.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Migrations\\202409191029334_InitialCreate5.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\202409191029334_InitialCreate5.cs",
+              "RelativeToolTip": "TASK17-09\\Migrations\\202409191029334_InitialCreate5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:29:37.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202409191028431_InitialCreate4.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\202409191028431_InitialCreate4.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Migrations\\202409191028431_InitialCreate4.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\202409191028431_InitialCreate4.cs",
+              "RelativeToolTip": "TASK17-09\\Migrations\\202409191028431_InitialCreate4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:28:47.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202409191026515_InitialCreate3.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\202409191026515_InitialCreate3.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Migrations\\202409191026515_InitialCreate3.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\202409191026515_InitialCreate3.cs",
+              "RelativeToolTip": "TASK17-09\\Migrations\\202409191026515_InitialCreate3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:26:55.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "TASK17-09\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "TASK17-09\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T16:31:53.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Assignment.cs",
+              "RelativeToolTip": "TASK17-09\\Models\\Assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:08:16.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Teacher.cs",
+              "RelativeToolTip": "TASK17-09\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:07:17.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "TASK17-09\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:14:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\StudentDetails\\Index.cshtml",
               "RelativeDocumentMoniker": "TASK17-09\\Views\\StudentDetails\\Index.cshtml",
@@ -79,46 +201,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Controllers\\StudentDetailsController.cs",
-              "RelativeDocumentMoniker": "TASK17-09\\Controllers\\StudentDetailsController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Controllers\\StudentDetailsController.cs",
-              "RelativeToolTip": "TASK17-09\\Controllers\\StudentDetailsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Student.cs",
+              "RelativeToolTip": "TASK17-09\\Models\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:33:08.068Z",
+              "WhenOpened": "2024-09-17T19:07:50.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TASK17-09\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:06:43.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Students\\Index.cshtml",
-              "RelativeDocumentMoniker": "TASK17-09\\Views\\Students\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Students\\Index.cshtml",
-              "RelativeToolTip": "TASK17-09\\Views\\Students\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA7AAAA",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "TASK17-09\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "TASK17-09\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T16:31:53.1Z",
+              "WhenOpened": "2024-09-19T10:16:52.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentDetails.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\StudentDetails.cs",
-              "RelativeDocumentMoniker": "TASK17-09\\Models\\StudentDetails.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\StudentDetails.cs",
-              "RelativeToolTip": "TASK17-09\\Models\\StudentDetails.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Course.cs",
+              "RelativeToolTip": "TASK17-09\\Models\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T08:07:22.557Z",
+              "WhenOpened": "2024-09-19T10:19:43.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "TASK17-09\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAwwIIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:03:27.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "TASK17-09\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "TASK17-09\\Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T10:04:49.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "TASK17-09\\Views\\Teachers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "TASK17-09\\Views\\Teachers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T10:18:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Web.config",
               "RelativeDocumentMoniker": "TASK17-09\\Web.config",
@@ -131,67 +305,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Assignment.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Assignment.cs",
-              "RelativeDocumentMoniker": "TASK17-09\\Models\\Assignment.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Assignment.cs",
-              "RelativeToolTip": "TASK17-09\\Models\\Assignment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "DocumentIndex": 15,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Models\\StudentDetails.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\StudentDetails.cs",
+              "RelativeToolTip": "TASK17-09\\Models\\StudentDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T19:08:16.498Z"
+              "WhenOpened": "2024-09-18T08:07:22.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "TASK17-09\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Teacher.cs",
-              "RelativeToolTip": "TASK17-09\\Models\\Teacher.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAASAAAA",
+              "DocumentIndex": 14,
+              "Title": "StudentDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Controllers\\StudentDetailsController.cs",
+              "RelativeDocumentMoniker": "TASK17-09\\Controllers\\StudentDetailsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Controllers\\StudentDetailsController.cs",
+              "RelativeToolTip": "TASK17-09\\Controllers\\StudentDetailsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T19:07:17.767Z"
+              "WhenOpened": "2024-09-18T16:33:08.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "TASK17-09\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\Student.cs",
-              "RelativeToolTip": "TASK17-09\\Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T19:07:50.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "TASK17-09\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "TASK17-09\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T19:06:43.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "TASK17-09\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "TASK17-09\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T19:14:05.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "202409171914147_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\202409171914147_InitialCreate.cs",
               "RelativeDocumentMoniker": "TASK17-09\\Migrations\\202409171914147_InitialCreate.cs",
@@ -203,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "202409171918374_InitialCreate1.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC\\TASK17-09\\TASK17-09\\Migrations\\202409171918374_InitialCreate1.cs",
               "RelativeDocumentMoniker": "TASK17-09\\Migrations\\202409171918374_InitialCreate1.cs",

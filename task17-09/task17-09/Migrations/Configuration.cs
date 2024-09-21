@@ -18,6 +18,14 @@
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method
             //  to avoid creating duplicate seed data.
+
+            
+                context.Students.AddOrUpdate(
+                    s => s.StudentName,
+                    new Models.Student { StudentName = "saer", Age = 19 },
+                    new Models.Student { StudentName = "Orange", Age = 98 }
+                );
+            
         }
     }
 }

@@ -172,3 +172,6 @@ C:\Users\Orange\Desktop\MVC\MVC\TASK17-09\TASK17-09\obj\Debug\TASK17-09.csproj.C
 C:\Users\Orange\Desktop\MVC\MVC\TASK17-09\TASK17-09\obj\Debug\TASK17-09.csproj.Up2Date
 C:\Users\Orange\Desktop\MVC\MVC\TASK17-09\TASK17-09\obj\Debug\TASK17-09.dll
 C:\Users\Orange\Desktop\MVC\MVC\TASK17-09\TASK17-09\obj\Debug\TASK17-09.pdb
+C:\Users\Orange\Desktop\MVC\MVC\TASK17-09\TASK17-09\obj\Debug\TASK17_09.Migrations.InitialCreate3.resources
+C:\Users\Orange\Desktop\MVC\MVC\TASK17-09\TASK17-09\obj\Debug\TASK17_09.Migrations.InitialCreate4.resources
+C:\Users\Orange\Desktop\MVC\MVC\TASK17-09\TASK17-09\obj\Debug\TASK17_09.Migrations.InitialCreate5.resources

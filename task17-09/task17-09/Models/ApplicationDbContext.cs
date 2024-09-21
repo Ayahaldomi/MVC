@@ -11,8 +11,6 @@ namespace TASK17_09.Models
         public ApplicationDbContext() : base("SchoolContext")
         {
         }
-
-
         public DbSet<Student> Students { get; set; }
         public DbSet<StudentDetails> StudentDetails { get; set; }
         public DbSet<Teacher> Teachers { get; set; }

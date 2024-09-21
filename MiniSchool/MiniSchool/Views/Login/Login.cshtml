@@ -1,0 +1,83 @@
+﻿@model MiniSchool.Models.User
+
+<section class="vh-100">
+    <div class="container-fluid h-custom">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-md-5 col-lg-4 col-xl-4">
+                <img src="https://png.pngtree.com/background/20230522/original/pngtree-an-illustration-of-an-elementary-school-building-picture-image_2697300.jpg" class="img-fluid custom-img" alt="School Image">
+            </div>
+            <div class="col-md-6 col-lg-5 col-xl-4 offset-xl-1">
+                @using (Html.BeginForm("Login", "Login", FormMethod.Post))
+                {
+                    <!-- Form Container with Padding -->
+                    <div class="form-container p-4">
+                        <!-- Email input -->
+                        <div class="form-outline mb-4">
+                            @Html.TextBoxFor(m => m.Email, new { id = "form3Example3", @class = "form-control form-control-lg", placeholder = "Enter a valid email address", required = "required" })
+                            @Html.LabelFor(m => m.Email, new { @class = "form-label", })
+                        </div>
+
+                        <!-- Password input -->
+                        <div class="form-outline mb-3">
+                            @Html.PasswordFor(m => m.Password, new { id = "form3Example4", @class = "form-control form-control-lg", placeholder = "Enter password", required = "required" })
+                            @Html.LabelFor(m => m.Password, new { @class = "form-label", })
+                        </div>
+
+                        <!-- Login Button -->
+                        <div class="text-center text-lg-start mt-4 pt-2">
+                            <button type="submit" class="btn btn-primary btn-lg" style="padding-left: 2.5rem; padding-right: 2.5rem;">Login</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    /* Divider Styling */
+    .divider:after,
+    .divider:before {
+        content: "";
+        flex: 1;
+        height: 1px;
+        background: #eee;
+    }
+
+    /* Custom height for the container */
+    .h-custom {
+        height: calc(100% - 73px);
+    }
+
+    /* Style for the Image */
+    .custom-img {
+        max-width: 100%; /* Image width won't exceed column width */
+        height: auto; /* Maintain the aspect ratio */
+        max-height: 300px; /* Set a max height */
+        object-fit: cover; /* Maintain the aspect ratio while filling the box */
+    }
+
+    /* Styling for Form with Border and Shadow */
+    .form-container {
+        border: 2px solid #007bff; /* Bootstrap primary color (blue) */
+        box-shadow: 0px 4px 10px rgba(0, 123, 255, 0.5); /* Blue shadow */
+        border-radius: 10px; /* Rounded corners */
+        background-color: #fff; /* White background */
+    }
+
+    /* Media query for smaller screens */
+    @@media (max-width: 450px) {
+        .h-custom {
+            height: 100%;
+        }
+
+        .custom-img {
+            max-height: 200px; /* Reduce image height on small screens */
+        }
+
+        .form-container {
+            border-width: 1px; /* Reduce border thickness on small screens */
+            box-shadow: 0px 2px 5px rgba(0, 123, 255, 0.5); /* Lighter shadow on small screens */
+        }
+    }
+</style>
